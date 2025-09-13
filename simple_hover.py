@@ -13,7 +13,7 @@ from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
 import time
 
 # URI for crazyflie
-URI = 'radio://0/30/2M/E7E7E7E7E7' # Change this to your Crazyflie URI
+URI = 'radio://0/80/2M/E7E7E7E7E7' # Change this to your Crazyflie URI
 
 # Main Script
 def main():
